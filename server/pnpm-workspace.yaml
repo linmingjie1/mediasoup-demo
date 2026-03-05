@@ -1,0 +1,10 @@
+# pnpm >= 10.9.0
+dangerouslyAllowAllBuilds: true
+
+# pnpm ignored-builds
+# pnpm approve-builds
+# pnpm rebuild
+
+# pnpm v10.19+
+# onlyBuiltDependencies:
+#   - mediasoup
